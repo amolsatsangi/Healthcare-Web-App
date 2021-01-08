@@ -1,0 +1,87 @@
+.jumbotron-background {
+    position:relative;
+    overflow:hidden;
+    background-size:100%;
+  }
+  #j
+  {
+      padding: 0px;
+      padding-bottom: 0px;
+  }
+  #para
+  {
+      position:absolute;
+      bottom:10px;
+      left:10px;
+      font-family: 'Source Code Pro', monospace;
+  }
+  #sp{
+      font-weight:1000;
+  }
+  .navbar
+  {
+      font-size:20px;
+  }
+  #nb
+  {
+      font-size:32px;
+  }
+  .panel-footer
+{
+    background-color: white;
+    color:#808080;
+    margin-top:30px;
+    padding-top:25px;
+}
+#about
+{
+    text-align: center;
+}
+#about div{
+    margin-bottom:10px;
+}
+#testimonials
+{
+    text-align: center;
+}
+#testimonials div{
+    font-size:16px;
+    margin-bottom: 7px;
+}
+#connect{
+    text-align: center;
+}
+.row span
+{
+    font-size:16px;
+    font-weight: 500;
+}
+  
+   .login-container {
+    float: right;
+  }
+  
+   input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+    width:120px;
+  }
+  
+   .login-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background-color: #555;
+    color: white;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+  
+   .login-container button:hover {
+    background-color: green;
+  }
+  
