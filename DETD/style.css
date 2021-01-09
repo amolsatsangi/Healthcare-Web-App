@@ -64,3 +64,22 @@
     background-color:white;
     font-size:18px;
   }
+#para .par{
+    color:#ff99ff;
+}
+.navbar-brand a:hover{
+    text-decoration:none;
+    color:Blue;
+}
+.navbar-brand a:focus{
+    text-decoration:none;
+    color:Blue;
+}
+#doc{
+    clear:both;
+}
+.btnn{
+    margin-left:75vw;
+    margin-top:0px;
+
+}
