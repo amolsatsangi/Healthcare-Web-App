@@ -83,3 +83,12 @@
     margin-top:0px;
 
 }
+.image{
+    height:20vw;
+    width:20vw;;
+    background-color:blue;
+    margin:auto;
+    margin-top:4vw;
+    background-size:100%;
+    position:relative;
+}
