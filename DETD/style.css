@@ -92,3 +92,13 @@
     background-size:100%;
     position:relative;
 }
+.pm
+{
+    background-color:  #e1e1d0;
+    height: 2.5vw;
+    border-radius: 3px;
+}
+.req {
+    border-radius: 5px;
+    margin:20px;
+}
