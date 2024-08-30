@@ -24,3 +24,14 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/hospise.git
+##  Usage
+Visit the home page to explore available services.
+Use the navigation menu to explore different sections, such as Doctors, Nurses, and Compounder.
+Use the Intelligent Filter system to find suitable healthcare providers based on your symptoms.
+Connect with us on social media or reach out via email for support.
+#Technologies
+HTML5
+CSS3
+Bootstrap 4
+JavaScript
+Google Fonts
